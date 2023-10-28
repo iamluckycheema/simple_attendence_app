@@ -1,0 +1,6 @@
+{
+  "appTitle": "simple_attendence_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
