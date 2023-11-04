@@ -1,4 +1,4 @@
-# A Simple App built using Flutter to take and export attendece as PDF.
+# A Simple App built using Flutter to take and export attendance as PDF.
 
 You can mark attendence covineanlty and generate a well formated PDF report in matter of seconds. Options to save/print and share directly are available in app.
 
