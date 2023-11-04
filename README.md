@@ -1,6 +1,8 @@
-# simple_attendence_app
+# A Simple App built using Flutter to take and export attendece as PDF.
 
-A new Flutter project.
+You can mark attendence covineanlty and generate a well formated PDF report in matter of seconds. Options to save/print and share directly are available in app.
+
+Limited Functionality available till date, further updates will be published soon. For now the students/subjects/time slots are hard coded(clone and cahnge if you want to according to your needs). I will soon add to add/remove students/subjects and time slots in settings. We can also have different students in different subjects(in future-not yet available) list will be loaded automaticly on selection of subject/class. 
 
 ## Getting Started
 
